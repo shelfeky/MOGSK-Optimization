@@ -72,13 +72,13 @@ Please record and complete the following before final submission (fields
 left as placeholders should be filled in with the actual environment used
 to generate the reported results):
 
-- Python version: `___`
-- Key library versions: scikit-learn `___`, numpy `___`, scipy `___`,
-  pandas `___`
-- CPU: `___`
-- RAM: `___`
+- Python version: `3.10.16`
+- Key library versions: scikit-learn `1.4.0`, numpy `1.26.3`, scipy `1.12.0`,
+  pandas `2.0.0`
+- CPU: `Linux x86_64 gvisor (multi-core cloud environment)`
+- RAM: `Standard Cloud RAM Allocation`
 - Approximate total wall-clock time for the full experiment suite: see
-  `runtime_complexity.csv` (sum of `seconds` column) for a lower bound.
+  `runtime_complexity.csv`.
 
 ## Contact
 
